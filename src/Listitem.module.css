@@ -1,0 +1,11 @@
+.item{
+    margin: 1rem;
+    padding: 3px;
+    background-color: blueviolet;
+    border-radius: 5px;
+
+}
+.item h2{
+    font-weight: bold;
+
+}

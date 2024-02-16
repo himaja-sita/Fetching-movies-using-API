@@ -1,0 +1,13 @@
+.listitems{
+    list-style: none;
+    background-color: grey;
+    border-radius: 12px;
+    color: black;
+    width:30rem;
+    height:auto;
+    margin :2rem;
+    padding: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
